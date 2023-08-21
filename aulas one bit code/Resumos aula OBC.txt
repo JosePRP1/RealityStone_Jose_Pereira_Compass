@@ -1,8 +1,0 @@
-Para printar (puts)
-gets.chomp.to_i, torna inteiro
-gets.chomp.to_f, torna float
-if, elsif, else, end/ comandos usados para condicionais
-comandos list: .push: insere; .insert(posicao, nome): insere em determinada posicao, .delete: deleta, .sort: organiza
-def func var
-	return 
-end : exemplo de funcao
