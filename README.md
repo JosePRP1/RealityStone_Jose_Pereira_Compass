@@ -15,13 +15,11 @@
 #### - É recomendada a instalação da versão mais recente do Cmder
 
 ### É recomendada a instalação de 3 extensões no VSCode:   
-Ruby v0.28.1
+
 ![Ruby](https://github.com/JosePRP1/img/blob/main/imagens%20guit/Screenshot_2.png?raw=true)
 
-VSCode Ruby v0.28.0
 ![Vscode Ruby](https://github.com/JosePRP1/img/blob/main/imagens%20guit/Screenshot_3.png?raw=true)
 
-Ruby Solargraph v0.24.0
 ![Solargraph](https://github.com/JosePRP1/img/blob/main/imagens%20guit/Screenshot_1.png?raw=true)
 
 
