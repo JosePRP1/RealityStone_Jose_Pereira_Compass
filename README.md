@@ -30,7 +30,7 @@
 
     gem install ruby-debug-ide
 ### - Deve acessar a pasta em que está a gemfile, através do Cmder e digitar o seguinte comando:
-    Cmder bundle install
+    bundle install
 
 ## Demonstração
 ### Para gerar o executável do projeto usar no cmder o comando (deve acessar a pasta que está o spec da calculadora):
